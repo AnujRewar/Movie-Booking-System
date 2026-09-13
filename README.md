@@ -1,4 +1,4 @@
 Movie Booking System
 
-This is a backend code for movie booking system.
-Framework - Spring Boot
+This is a backend code for apps like BookMyShow.
+Framework - Spring Boot.
